@@ -1,12 +1,12 @@
-# File Sharing ReszzXD
+# File Sharing 
 
 Bot Telegram untuk menyimpan Postingan atau File yang Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 File Sharing Khusus 18+ [Click Di Sini](
-https://github.com/restuap17/FileSharing-Pekob)
+https://github.com/Dax083/File-bot)
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@InfoBotShr](https://www.telegram.dog/Sharin)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@vvslh_pro](https://www.telegram.dog/Sharin)**
 
 ### Features
 - Dapat Custom Full
@@ -27,8 +27,8 @@ https://github.com/restuap17/FileSharing-Pekob)
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/restuap17/FileSharing-Restu
-cd FileSharing-Restu
+git clone https://github.com/Dax083/File-bot
+cd File-bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
@@ -85,7 +85,7 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/InfoBotShr) Untuk Dukungan/Bantuan dan untuk info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/vvslh_pro) Untuk Dukungan/Bantuan dan untuk info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.
 ### Credits
