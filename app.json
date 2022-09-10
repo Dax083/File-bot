@@ -1,12 +1,12 @@
 {
-  "name": "FileSharing RestuAP",
+  "name": "FileSharing vpro",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/restuap17/FileSharing-Restu",
+  "repository": "https://github.com/Dax083/File-bot",
   "logo": "https://telegra.ph/file/17577b5183ef34527a7e0.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -60,7 +60,7 @@
     },
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "InfoBotShr",
+      "value": "vvslh_pro",
       "required": false
     }
   },
