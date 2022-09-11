@@ -91,7 +91,7 @@ class Bot(Client):
                 self.LOGGER(__name__).warning(a)
                 self.LOGGER(__name__).warning(
                     "Bot tidak dapat Mengambil link Undangan dari FORCE_SUB_GROUP!"
-              if FORCE_SUB_CHANNEL:
+        if FORCE_SUB_CHANNEL:
             try:
                 link = await self.export_chat_invite_link(FORCE_SUB_CHANNEL)
                 self.invitelink = link
