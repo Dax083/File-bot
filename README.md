@@ -1,8 +1,7 @@
 # File Sharing 
 
 Bot Telegram untuk menyimpan Postingan atau File yang Diakses melalui Link Khusus.
-Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
-File Sharing Khusus 18+ [Click Di Sini](
+Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇. [Click Di Sini](
 https://github.com/Dax083/File-bot)
 ##
 
