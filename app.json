@@ -60,7 +60,7 @@
     },
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "SharingUserbot",
+      "value": "akagami_no_botz",
       "required": false
     }
   },
