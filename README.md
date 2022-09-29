@@ -22,7 +22,7 @@ https://github.com/Dax083/File-bot)
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/restuap17/FileSharing-Restu)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dax083/File-bot)</br>
 
 #### Deploy in your VPS
 ### Admin Commands
@@ -57,7 +57,7 @@ https://github.com/Dax083/File-bot)
 
 ### Extra Variables
 
-* `CUSTOM_CAPTION` letakkan teks teks Kustom Anda jika Anda ingin Mengatur Teks Kustom, Anda dapat menggunakan HTML dan <a href='https://github.com/restuap17/FileSharing-Restu/blob/main/README.md#custom_caption'>fillings</a> untuk pemformatan (hanya untuk dokumen)
+* `CUSTOM_CAPTION` letakkan teks teks Kustom Anda jika Anda ingin Mengatur Teks Kustom, Anda dapat menggunakan HTML dan <a href='https://github.com/Dax083/File-bot/blob/main/README.md#custom_caption'>fillings</a> untuk pemformatan (hanya untuk dokumen)
 * `DISABLE_CHANNEL_BUTTON` Masukan True untuk Nonaktifkan Tombol Berbagi Saluran, Default jika False
 
 ### Fillings
